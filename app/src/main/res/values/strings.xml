@@ -1,0 +1,130 @@
+<resources>
+    <string name="Open">open drawer</string>
+    <string name="Close">close drawer</string>
+    <string name="app_name">DaanCorona</string>
+    <string name="MAP_API_KEY" translatable="false">AIzaSyCiyc_4v8hbbwX86H6Cy9020JNY6dzQJGE</string>
+    <string name="hindi">हिन्दी</string>
+    <string name="english">अंग्रेज़ी</string>
+    <string name="select_a_language">Select language / भाषा चुने :</string>
+    <string name="mouDetails1">This Memorandum of Understanding (referred to as the “MoU”) establishes the terms for collaboration between:\n
+      “DaanCorona”: includes the mobile application, online web-application and the essence of the service being offered (referred to as the “app” or “platform” or “service”), and \n •
+    </string>
+    <string name="mouDetails2">
+        includes the business and the businesses’ stakeholders - owners, employees, and the like (referred to as the “business”) \n
+for the purpose of signing-up on the DaanCorona platform and the following is being agreed upon by the undersigned.\n\n
+        A. Duration:\n
+Once accepted by business signing onto the platform, through the app, this Memorandum of Understanding shall take effect from
+    </string>
+    <string name="mouDetails3">
+         and shall stay in effect for a period of 2 years. This Memorandum of Understanding is at-will and thus may be modified with the mutual consent of competent authorities from both parties. Thus the duration of the Memorandum of Understanding may be extended or reduced with mutual consent.\n\n
+
+B. Deliverables from DaanCorona to the business:\n
+After the signing of this Memorandum of Understanding, DaanCorona shall be promising these deliverables:\n
+ • A public profile for the business on the platform.\n
+ • Publicly display the business’s profile to customers on the website.\n
+ • Allow customers to buy vouchers in the said business’ name. \n
+ • Ability to limit the sale of the vouchers by way of a ‘Maximum credit’ amount, decided by the business during registration. \n
+ • Transfer funds to the business’s bank account (details mentioned in the registration process) equivalent to the amounts received from the sale of the vouchers, minus a transaction fee equal to the transaction fee charged by the DaanCorona website’s payment gateway and any other fees charged by external sources.\n
+ • The following details shall be conveyed, through the mobile application - Total monetary compensation received, the monetary value of vouchers issued, the monetary value of vouchers redeemed.\n\n
+
+
+C. Deliverables from the business to DaanCorona:\n
+ • A guarantee to honour the vouchers issued through DaanCorona to the customers, for a period of one year.\n
+ • A guarantee to allow customers to pay using DaanCorona issued vouchers on all services, goods, products or any other deliverables offered by the business to the customers when the situation regarding COVID-19 has improved and the business resumes operations. \n
+ • The business admits that and bears a promise that any information provided in the registration process or by any form of communication thereafter, is accurate and that the business carries relevant proof for this in the form of government identification, business-related registration documents, or any other relevant, verifiable, and legal document.\n
+ • The business agrees that it shall bear any and all responsibility for any disputes, refund claims, and other customer issues regarding the redemption and fulfilment of the vouchers issued through DaanCorona. It also understands that DaanCorona shall limit its responsibility and liability, fully, in this regard. \n
+ • A guarantee to solve all relevant queries from customers (directed to them by DaanCorona or the customers directly) regarding the fulfilment and redemption of the vouchers, as soon as possible. The responsibility for any complications arising from the business’ inability to do so, shall remain with the business. \n
+ • The business agrees that DaanCorona may stop offering its services partially, or in full, without any notice. \n
+ • The business agrees and shall comply with all conditions stated in the following documents - The Terms of Service/ Terms and Conditions, Privacy Policy, Refund Policy, and any others that are updated on the platform at a later date. The responsibility for checking for any updates in any of the above-mentioned documents shall also be borne by the business.\n
+ • An understanding that any non-compliance with above-mentioned conditions shall be grounds for strict and immediate action - legal, or otherwise.\n\n\n
+Date:
+    </string>
+
+    <string name="HinMou1">
+    यह समझौता ज्ञापन ("एमओयू" के रूप में संदर्भित) के बीच सहयोग के लिए शर्तें स्थापित करता है:
+"DaanCorona": इसमें मोबाइल एप्लिकेशन, ऑनलाइन वेब-एप्लिकेशन और दी जा रही सेवा का सार ("ऐप" या "प्लेटफ़ॉर्म" या "सेवा") कहा जाता है, और \n •
+</string>
+    <string name="HinMou2">
+    इसमें व्यवसाय और व्यवसाय के हितधारक शामिल हैं - मालिक, कर्मचारी और जैसे ("व्यवसाय" के रूप में संदर्भित)
+
+DaanCorona प्लेटफ़ॉर्म पर साइन-अप करने के उद्देश्य से और निम्न पर अधोहस्ताक्षरी द्वारा सहमति दी जा रही है।
+
+A. अवधि:
+एक बार प्लेटफ़ॉर्म पर व्यापार हस्ताक्षर द्वारा स्वीकार किए जाने पर, ऐप के माध्यम से, यह समझौता ज्ञापन
+</string>
+    <string name="HinMou3">
+        से प्रभावी होगा और 2 साल की अवधि के लिए प्रभावी रहेगा।यह समझौता ज्ञापन वसीयत में है और इस प्रकार दोनों पक्षों के सक्षम अधिकारियों की आपसी सहमति से इसे संशोधित किया जा सकता है। इस प्रकार समझौता ज्ञापन की अवधि को आपसी सहमति से बढ़ाया या घटाया जा सकता है।\n\n
+
+B. व्यवसाय के लिए DaanCorona से वितरण:\n
+समझौता ज्ञापन पर हस्ताक्षर करने के बाद, DaanCorona इन वितरणों का वादा करेगा:\n
+•प्लेटफॉर्म पर व्यवसाय के लिए एक सार्वजनिक प्रोफ़ाइल।\n
+•वेबसाइट पर ग्राहकों के लिए सार्वजनिक रूप से व्यवसाय की प्रोफ़ाइल प्रदर्शित करें।\n
+•ग्राहकों को उक्त व्यवसाय के नाम से वाउचर खरीदने की अनुमति दें।\n
+•पंजीकरण के दौरान व्यवसाय द्वारा तय sale अधिकतम क्रेडिट ’राशि के माध्यम से वाउचर की बिक्री को सीमित करने की क्षमता।\n
+•वाउचर की बिक्री से प्राप्त राशि के बराबर व्यवसाय के बैंक खाते (पंजीकरण प्रक्रिया में उल्लिखित विवरण) के लिए धनराशि ट्रांसफर करें, दानकोना वेबसाइट के भुगतान गेटवे द्वारा लगाए गए लेनदेन शुल्क के बराबर माइनस और बाहरी द्वारा चार्ज किए गए किसी अन्य शुल्क सूत्रों का कहना है।\n
+•निम्नलिखित विवरणों को मोबाइल एप्लिकेशन के माध्यम से अवगत कराया जाएगा - कुल मौद्रिक मुआवजा प्राप्त हुआ, जारी किए गए वाउचर का मौद्रिक मूल्य, वाउचर के मौद्रिक मूल्य को भुनाया गया।\n\n
+
+C. व्यवसाय से डानकोराणा तक पहुंचाया:\n
+•ग्राहकों को एक साल की अवधि के लिए डैनकोरोना के माध्यम से जारी किए गए वाउचर्स को सम्मानित करने की गारंटी।\n
+•ग्राहकों को DaanCorona द्वारा जारी वाउचर का उपयोग करने की अनुमति देने की गारंटी, जब COVID-19 के बारे में स्थिति में सुधार हुआ है और व्यवसाय फिर से शुरू हो जाता है, तो ग्राहकों को व्यवसाय द्वारा दी जाने वाली सभी सेवाओं, वस्तुओं, उत्पादों या किसी अन्य डिलिवरेबल्स पर वाउचर जारी किए जाते हैं।\n
+•व्यवसाय स्वीकार करता है कि एक वादा करता है और उसके बाद पंजीकरण प्रक्रिया या संचार के किसी भी रूप में प्रदान की गई जानकारी सही है, और यह व्यवसाय सरकारी पहचान, व्यवसाय से संबंधित पंजीकरण दस्तावेजों या किसी भी रूप में इसके लिए प्रासंगिक प्रमाण रखता है। अन्य प्रासंगिक, सत्यापन योग्य और कानूनी दस्तावेज़।\n
+•व्यवसाय इस बात से सहमत है कि यह किसी भी विवाद के लिए कोई भी और सभी जिम्मेदारी वहन करेगा, दावों की वापसी, और DaanCorona के माध्यम से जारी किए गए वाउचर के मोचन और पूर्ति के बारे में अन्य ग्राहक मुद्दे। यह भी समझता है कि DaanCorona पूरी तरह से इस संबंध में अपनी जिम्मेदारी और दायित्व को सीमित करेगा।\n
+•वाउचर की पूर्ति और छुटकारे के संबंध में ग्राहकों से सभी प्रासंगिक प्रश्नों को (DaanCorona या सीधे ग्राहकों द्वारा निर्देशित) हल करने की गारंटी, जितनी जल्दी हो सके। ऐसा करने के लिए व्यवसाय की अक्षमता से उत्पन्न किसी भी जटिलता के लिए जिम्मेदारी, व्यवसाय के साथ बनी रहेगी।\n
+•व्यवसाय इस बात से सहमत है कि DaanCorona बिना किसी सूचना के आंशिक रूप से या पूर्ण रूप से अपनी सेवाएँ देना बंद कर सकता है।\n
+•व्यवसाय सहमत है और निम्नलिखित दस्तावेजों में वर्णित सभी शर्तों का पालन करेगा - सेवा की शर्तें / नियम और शर्तें, गोपनीयता नीति, वापसी नीति, और बाद में प्लेटफ़ॉर्म पर अपडेट किए गए किसी भी अन्य। उपर्युक्त दस्तावेजों में से किसी में किसी भी अद्यतन के लिए जाँच करने की जिम्मेदारी भी व्यवसाय द्वारा वहन की जाएगी।\n
+•एक समझ यह है कि उपर्युक्त शर्तों के साथ कोई भी गैर-अनुपालन सख्त और तत्काल कार्रवाई के लिए आधार होगा - कानूनी, या अन्यथा।\n
+तारीख:
+</string>
+    <string name="personal_info">व्यक्तिगत जानकारी</string>
+    <string name="select_profile">प्रोफ़ाइल छवि चुनें</string>
+    <string name="select_buss">व्यवसाय की छवि चुनें</string>
+    <string name="sole_owner">क्या आप स्टोर के मालिक हैं?</string>
+    <string name="proceed">आगे बढ़े</string>
+    <string name="buss_info">व्यवसाय जानकारी</string>
+    <string name="shop_location">दुकान का स्थान</string>
+    <string name="bussloc">व्यवसाय का स्थान</string>
+    <string name="login">लॉग इन करें</string>
+    <string name="register_new_user">रजिस्टर करें</string>
+    <string name="quote">रजिस्टर करें और भुगतान स्वीकार करना शुरू करें !!</string>
+    <string name="accept_UPI">UPI के माध्यम से स्वीकार करें</string>
+    <string name="accept_bank">बैंक खाते के माध्यम से स्वीकार करें</string>
+    <string name="mark_shop_location">अपनी दुकान का स्थान चिह्नित करें</string>
+    <string name="maxcredit">अधिकतम क्रेडिट(अधिकतम कुल भुगतान आप रु में चाहते हैं)</string>
+    <string name="transactions">लेनदेन का सारांश</string>
+    <string name="netamt">निवल राशि</string>
+    <string name="donations">दान</string>
+    <string name="getotp">ओ.टी.पी. प्राप्त करें</string>
+    <string name="verifyotp">ओ.टी.पी. सत्यापित करें</string>
+    <string name="enterphn">10 अंकों का फोन नंबर दर्ज करें</string>
+    <string name="enterotp">ओटीपी दर्ज करें</string>
+    <string name="entervpa">vpa दर्ज करें(आभासी भुगतान पता)</string>
+    <string name="firstname">पहला नाम</string>
+    <string name="lastname">सरनेम</string>
+    <string name="address">पता</string>
+    <string name="owner">क्या आप स्टोर के मालिक हैं?</string>
+    <string name="bussname">व्यवास्यक नाम</string>
+    <string name="busstype">व्यापार प्रकार</string>
+    <string name="bussaddr">व्यावसायिक पता</string>
+    <string name="enteracc">अपना खाता नंबर दर्ज करें</string>
+    <string name="ifsc">ifsc कोड दर्ज करें</string>
+    <string name="agree">हाँ मैं सहमत हूँ</string>
+    <string name="change">बदलें</string>
+    <string name="nodon">अभी तक कोई दान नहीं</string>
+    <string name="transaction">आपको यहां अपना हालिया लेन-देन मिलेगा</string>
+    <string name="mou">यह समझौता ज्ञापन: \n "DaanCorona" के बीच सहयोग के लिए शर्तें स्थापित करता है: इसमें मोबाइल एप्लिकेशन, ऑनलाइन वेब-एप्लिकेशन और दी जा रही सेवा का सार ("ऐप" या "प्लेटफॉर्म" या "सेवा" के रूप में संदर्भित) शामिल है। )। \ n "(व्यवसाय का नाम)": इसमें कोरोनाोना मंच पर साइन-अप करने के उद्देश्य से व्यवसाय और व्यवसाय के हितधारक - मालिक, कर्मचारी और जैसे ("व्यवसाय" के रूप में संदर्भित) शामिल हैं। और निम्न पर अधोहस्ताक्षरी द्वारा सहमति व्यक्त की जा रही है। \ n (ए) अवधि: \ n दोनों पक्षों द्वारा हस्ताक्षर किए जाने के बाद, यह समझौता ज्ञापन (__ / __ / ____) पर शुरू होगा और तब तक रहेगा (__ / __) / ____)। यह समझौता ज्ञापन वसीयत में है और इस प्रकार दोनों पक्षों के सक्षम अधिकारियों की आपसी सहमति से इसे संशोधित किया जा सकता है। इस प्रकार समझौता ज्ञापन की अवधि को आपसी सहमति से बढ़ाया या घटाया जा सकता है। DaanCorona से \ n (B) वितरण: \ n इस समझौता ज्ञापन पर हस्ताक्षर करने के बाद, DaanCorona इन डिलिवरेबल्स का वादा करेगा: \ n (1) प्लेटफ़ॉर्म पर व्यवसाय के लिए एक सार्वजनिक प्रोफ़ाइल बनाना।</string>
+
+    <string name="is1">परिचय</string>
+    <string name="is2">DaanCorona, भारत के बड़े और छोटे व्यवसायों के लिए कूपन खरीदने के लिए एक ऑनलाइन मंच। ग्राहक अब एक उपहार कार्ड खरीदते हैं और स्थिति में सुधार होने पर इसका उपयोग करते हैं।</string>
+    <string name="is3">सत्यापन</string>
+    <string name="is4">ओटीपी का उपयोग करके मोबाइल सत्यापन प्रदान करता है</string>
+    <string name="is5">पंजीकरण की प्रक्रिया</string>
+    <string name="is6">व्यक्तिगत और व्यावसायिक विवरण प्रदान करें, और सत्यापित करें।</string>
+    <string name="is7">भुगतान के तरीके</string>
+    <string name="is8">राशि दानदाता के लिए एक वाउचर के रूप में कार्य करती है ताकि भविष्य में वह राशि भुना सके।</string>
+    <string name="is9">तय करें कि आप भुगतान कैसे प्राप्त करना चाहते हैं - UPI या बैंक खाता।</string>
+    <string name="is10">डैशबोर्ड</string>
+    <string name="is11">अपने सभी वाउचर और लेनदेन पर नज़र रखें</string>
+
+
+
+</resources>

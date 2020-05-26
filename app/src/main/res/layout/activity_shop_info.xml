@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.core.widget.NestedScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="8dp"
+    android:background="#4b4c78"
+    tools:context=".ShopInfoActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="24dp"
+        android:layout_marginRight="24dp"
+        android:orientation="vertical"
+        android:layout_marginTop="30dp"
+        android:layout_centerHorizontal="true">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:text="Business Information"
+            android:id="@+id/bussinfo"
+            android:textSize="30sp"
+            android:layout_marginBottom="20dp"
+            android:textColor="#ffffff"/>
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:id="@+id/shop_image"
+            android:layout_width="170dp"
+            android:layout_height="170dp"
+            app:civ_border_color="#000"
+            app:civ_border_width="2dp"
+            android:tooltipText="shop image"
+            android:elevation="10dp"
+            android:src="@drawable/shop"
+            android:layout_gravity="center_horizontal"/>
+
+        <TextView
+            android:id="@+id/pimg"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="10dp"
+            android:text="Select Business' Image"
+            android:textColor="#fff"
+            android:textSize="20sp" />
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="15dp"
+            android:id="@+id/shopName1"
+            android:textColorHint="#fff">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/shopName"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/edit_text1"
+                android:hint="Business Name"
+                android:textColorHint="#fff"
+                android:textColor="#fff"
+                android:padding="10dp"
+                android:inputType="text"
+                android:layout_marginTop="15dp"
+                android:textSize="20sp" />
+
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="15dp"
+            android:id="@+id/shopType1"
+            android:textColorHint="#fff">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/shopType"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/edit_text1"
+                android:hint="Business Type"
+                android:textColorHint="#fff"
+                android:textColor="#fff"
+                android:padding="10dp"
+                android:inputType="text"
+                android:layout_marginTop="15dp"
+                android:textSize="20sp" />
+
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="15dp"
+            android:id="@+id/businessaddress1"
+            android:textColorHint="#fff">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/businessaddress"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/edit_text1"
+                android:hint="Business Address"
+                android:textColor="#fff"
+                android:textColorHint="#fff"
+                android:padding="10dp"
+                android:inputType="text"
+                android:layout_marginTop="15dp"
+                android:textSize="20sp" />
+
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="15dp"
+            android:id="@+id/maxcredit1"
+            android:textColorHint="#fff">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/maxcredit"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/edit_text1"
+                android:hint="Max Credit(Max Total Advanced Payments You want in Rs.)"
+                android:textColor="#fff"
+                android:textColorHint="#fff"
+                android:padding="10dp"
+                android:maxLines="2"
+                android:inputType="number"
+                android:layout_marginTop="15dp"
+                android:textSize="20sp" />
+
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Business Location"
+            android:textSize="20sp"
+            android:textColor="#fff"
+            android:textAllCaps="false"
+            android:id="@+id/shopLocation"
+            android:background="@drawable/button"
+            android:elevation="10dp"
+            android:padding="15dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="20dp" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Proceed"
+            android:id="@+id/signin"
+            android:textSize="20sp"
+            android:textColor="#fff"
+            android:textAllCaps="false"
+            android:background="@drawable/button"
+            android:elevation="10dp"
+            android:layout_marginTop="15dp"
+            android:layout_marginLeft="16dp"
+            android:layout_marginRight="16dp"/>
+
+    </LinearLayout>
+
+</androidx.core.widget.NestedScrollView>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bgn"
+    tools:context=".LogoActivity">
+
+    <LinearLayout
+        android:gravity="center"
+        android:id="@+id/top"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="24dp"
+        android:layout_marginRight="24dp"
+        android:orientation="vertical"
+        android:layout_marginTop="30dp"
+        android:layout_centerInParent="true">
+
+        <RelativeLayout
+            android:id="@+id/relLayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:id="@+id/user_image"
+                android:layout_width="match_parent"
+                android:layout_height="240dp"
+                app:civ_border_color="#000"
+                app:civ_border_width="2dp"
+                android:tooltipText="your image"
+                android:elevation="10dp"
+                android:src="@drawable/daancorona_logo"
+                android:layout_centerHorizontal="true"/>
+
+
+            <TextView
+                android:gravity="center"
+                android:layout_below="@id/user_image"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:text="DaanCorona"
+                android:textSize="48sp"
+                android:layout_marginTop="20dp"
+                android:layout_marginBottom="20dp"
+                android:textColor="#000"/>
+
+        </RelativeLayout>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:text="Collect Your Donations"
+            android:textAllCaps="false"
+            android:id="@+id/btn_start"
+            android:background="@drawable/black_bg"
+            android:elevation="10dp"
+            android:textSize="20sp"
+            android:textColor="#000"
+            android:layout_marginTop="15dp"
+            android:layout_marginLeft="16dp"
+            android:layout_marginRight="16dp"/>
+
+    </LinearLayout>
+
+</RelativeLayout>

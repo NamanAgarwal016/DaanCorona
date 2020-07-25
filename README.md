@@ -1,3 +1,4 @@
+DaanCorona : Voucher Platform to help India's small scale businesses (Non-profit Startup)
 
 Project description: An integral part of the App Development Team to make a platform for Indian Citizens to make donations to non-essential mediums and small businesses of India and get vouchers that can be redeemed post COVID-19. Involves a website for customers made using ReactJS and an Android app for business owners made using Android Studio with a Django backend. Released publicly on May 8, 2020.
 
